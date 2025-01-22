@@ -1,0 +1,11 @@
+.idea/
+package-lock.json
+.DS_Store
+
+truffle/build/
+
+dapp/public/truffle-contract.min.js
+dapp/public/truffle-contract.min.js.map
+dapp/src/contracts
+
+node_modules/
